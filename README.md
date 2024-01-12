@@ -666,7 +666,7 @@
 
     raise 발생오류
 
-## 예외 만들기  
+## 16-4. 예외 만들기  
 
     class 오류명(Exception):
         def __str__(self):
